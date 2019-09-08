@@ -1,5 +1,6 @@
 # PAGES.JS
 The easiest way to create a multi-page app on khan academy!
+Currrent version: `1.2.6`
 ## GET STARTED
 There is no way to describe how simple this process is. Just copy the code below and you are ready to create fabulously simple apps!
 ```html
